@@ -30,7 +30,7 @@
         }
 
         .container {
-            background: rgb(157, 148, 148);
+            background: rgb(230, 188, 109);
             border-radius: var(--border-radius);
             box-shadow: var(--box-shadow);
             padding: 2rem;
